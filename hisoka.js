@@ -579,7 +579,7 @@ _Bukan Bot_ *_Wibusoft_*👍🏻
             }
             break
             case 'sc': {
-                m.reply('Script : https://github.com/DikaArdnt/Hisoka-Morou\n\n ')
+                m.reply('Script : https://github.com/FikriiSky/Bot-MD')
             }
             break
             case 'chat': {
@@ -1190,13 +1190,8 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
-                                }
-                            }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 812-3373-8677'
+                                    displayText: 'Group Official Bot🤖²',
+                                    url: 'https://chat.whatsapp.com/KpS9eHNALBs3mXXJGtzuZE'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1229,13 +1224,8 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
-                                }
-                            }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 812-3373-8677'
+                                    displayText: 'Group Official Bot🤖²',
+                                    url: 'https://chat.whatsapp.com/KpS9eHNALBs3mXXJGtzuZE'
                                 }
                             }, {
                                 quickReplyButton: {
