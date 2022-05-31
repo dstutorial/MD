@@ -1618,7 +1618,7 @@ break
                 hisoka.sendMessage(m.chat, { image: { url: api('zenz', '/api/random/'+command, {}, 'apikey') }, caption: 'Ni ' + command }, { quoted: m })
             }
             break
-            case 'megumin': case 'waifus': case 'nekos': case 'trap': case 'blowjob': {
+            case 'megumin': case 'waifus': case 'nekos': case 'trap': case 'hentai': case 'yuri': case 'blowjob': {
                 m.reply(mess.wait)
                 hisoka.sendMessage(m.chat, { image: { url: api('zenz', '/api/random/'+command, {}, 'apikey') }, caption: 'Tch Dasar Sagne Nih😏 ' + command }, { quoted: m })
             }
@@ -2854,11 +2854,15 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}husbu
 │⭔ ${prefix}neko
 │⭔ ${prefix}shinobu
+└───────⭓
+
+┌──⭓ *Nsfw Menu*
 │⭔ ${prefix}waifus (nsfw)
 │⭔ ${prefix}nekos (nsfw)
 │⭔ ${prefix}trap (nsfw)
 │⭔ ${prefix}blowjob (nsfw)
-│
+│⭔ ${prefix}hentai (nsfw)
+│⭔ ${prefix}yuri (nsfw)
 └───────⭓
 
 ┌──⭓ *Text Pro Menu*
