@@ -849,6 +849,15 @@ let teks = `══✪〘 *👥 Tag All* 〙✪══
                 hisoka.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
                 }
                 break
+case 'getip':{
+var http = require('http')
+http.get({'host': 'api.ipify.org', 'port': 80, 'path': '/'}, function(resp) {
+            resp.on('data', function(ip) {
+                m.reply("My public IP address is: " + ip);
+            })
+        })
+}
+break
                 case 'hidetag': {
             if (!m.isGroup) throw mess.group
             if (!isBotAdmins) throw mess.botAdmin
@@ -1152,7 +1161,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 812-3373-8677'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1191,7 +1200,7 @@ break
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 812-3373-8677'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1316,7 +1325,8 @@ break
 	    break
 	       case 'attp': case 'ttp': {
            if (!text) throw `Example : ${prefix + command} text`
-           await hisoka.sendMedia(m.chat, `https://xteam.xyz/${command}?file&text=${text}`, 'hisoka', 'morou', m, {asSticker: true})
+           await hisoka.sendMedia(m.chat, `https://xteam.xyz/${command}?file&text=${text}`, 'hisoka', 'morou', m, {asSticker: true})
+
          }
          break
 	       case 'smeme': case 'stickmeme': case 'stikmeme': case 'stickermeme': case 'stikermeme': {
@@ -3050,7 +3060,7 @@ let capt = `⭔ Title: ${judul}
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 812-3373-8677'
                                 }
                             }, {
                                 quickReplyButton: {
