@@ -2862,7 +2862,7 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}trap (nsfw)
 │⭔ ${prefix}blowjob (nsfw)
 │⭔ ${prefix}hentai (nsfw)
-│⭔ ${prefix}yuri (nsfw)
+│⭔ ${prefix}ass (nsfw)
 └───────⭓
 
 ┌──⭓ *Text Pro Menu*
