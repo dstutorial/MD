@@ -1190,22 +1190,17 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: 'Group Official Bot🤖²',
+                                    displayText: '𝙶𝚛𝚘𝚞𝚙 𝙱𝚘𝚝🤖',
                                     url: 'https://chat.whatsapp.com/KpS9eHNALBs3mXXJGtzuZE'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Status Bot',
-                                    id: 'ping'
-                                }
-                            }, {
-                                quickReplyButton: {
-                                    displayText: 'Contact Owner',
+                                    displayText: '𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛',
                                     id: 'owner'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Menu',
+                                    displayText: '𝙼𝚎𝚗𝚞',
                                     id: 'menu'
                                 }
                             }]
@@ -1224,22 +1219,17 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Group Official Bot🤖²',
+                                    displayText: '𝙶𝚛𝚘𝚞𝚙 𝙱𝚘𝚝🤖',
                                     url: 'https://chat.whatsapp.com/KpS9eHNALBs3mXXJGtzuZE'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Status Bot',
-                                    id: 'ping'
-                                }
-                            }, {
-                                quickReplyButton: {
-                                    displayText: 'Contact Owner',
+                                    displayText: '𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛',
                                     id: 'owner'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Menu',
+                                    displayText: '𝙼𝚎𝚗𝚞',
                                     id: 'menu'
                                 }
                             }]
@@ -3088,22 +3078,17 @@ let capt = `⭔ Title: ${judul}
 └───────⭓`
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'Group Official Bot🤖',
+                                    displayText: '𝙶𝚛𝚘𝚞𝚙 𝙱𝚘𝚝🤖',
                                     url: 'https://chat.whatsapp.com/KpS9eHNALBs3mXXJGtzuZE'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Status Bot',
-                                    id: 'ping'
-                                }
-                            }, {
-                                quickReplyButton: {
-                                    displayText: 'Contact Owner',
+                                    displayText: '𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛',
                                     id: 'owner'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Menu',
+                                    displayText: '𝙼𝚎𝚗𝚞',
                                     id: 'menu'
                                 }
                             }]
