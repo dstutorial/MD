@@ -3083,13 +3083,13 @@ let capt = `⭔ Title: ${judul}
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛',
-                                    id: 'owner'
+                                    displayText: 'Ｓｔａｔｕｓ Ｂｏｔ',
+                                    id: 'ping'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: '𝙼𝚎𝚗𝚞',
-                                    id: 'menu'
+                                    displayText: '𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙾𝚠𝚗𝚎𝚛',
+                                    id: 'owner'
                                 }
                             }]
                          let setbot = db.data.settings[botNumber]
