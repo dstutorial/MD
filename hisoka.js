@@ -2923,7 +2923,10 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}husbu
 │⭔ ${prefix}neko
 │⭔ ${prefix}shinobu
-⭔ ${prefix}megumin
+│⭔ ${prefix}megumin
+│⭔ ${prefix}uniform
+│⭔ ${prefix}maid
+│⭔ ${prefix}kitagawa
 └───────⭓
 
 ┌──⭓ *NSFW Menu*
