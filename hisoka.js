@@ -912,7 +912,7 @@ break
             case 'menu': case 'help': {
             anu = `Hai Kak ${m.pushName}*
 Saya 𝘽𝙤𝙩 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥 Yang Di Buat Oleh 𝙁𝙞𝙠𝙧𝙞𝙞𝙎𝙠𝙮
-Yang Mempermudahkan Kamu  Kalo Ada Bug / Error Segera Laporkan Ke Develover 𝘽𝙤𝙩
+Yang Mempermudahkan Kamu Jika Ada Fitur Error Atau Bug Segera Laporkan Ke Develover 𝘽𝙤𝙩
 *Runtime:* _${runtime(process.uptime())}_
 *Tanggal:* _${moment.tz('Asia/Jakarta').format('DD/MM/YY')}_
 *Waktu:* _${moment.tz('Asia/Jakarta').format('HH:mm:ss')}_
