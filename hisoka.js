@@ -588,7 +588,7 @@ _Bukan Bot_ *_Wibusoft_*👍🏻
             }
             break
             case 'sc': {
-                m.reply('Script : https://github.com/DikaArdnt/Hisoka-Morou\n\n ')
+                m.reply('Nyimak')
             }
             break
             case 'chat': {
