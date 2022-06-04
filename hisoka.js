@@ -588,7 +588,7 @@ _Bukan Bot_ *_Wibusoft_*👍🏻
             }
             break
             case 'sc': {
-                m.reply('Nyimak')
+                m.reply('PRIVATE')
             }
             break
             case 'chat': {
