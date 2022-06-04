@@ -2910,7 +2910,6 @@ let capt = `⭔ Title: ${judul}
 └───────⭓
 
 ┌──⭓ *Random Menu*
-│
 │⭔ ${prefix}coffe
 │⭔ ${prefix}quotesanime
 │⭔ ${prefix}motivasi
@@ -2924,11 +2923,16 @@ let capt = `⭔ Title: ${judul}
 │⭔ ${prefix}husbu
 │⭔ ${prefix}neko
 │⭔ ${prefix}shinobu
+⭔ ${prefix}megumin
+└───────⭓
+
+┌──⭓ *NSFW Menu*
 │⭔ ${prefix}waifus (nsfw)
 │⭔ ${prefix}nekos (nsfw)
 │⭔ ${prefix}trap (nsfw)
 │⭔ ${prefix}blowjob (nsfw)
-│
+│⭔ ${prefix}hentai (nsfw)
+│⭔ ${prefix}ass (nsfw)
 └───────⭓
 
 ┌──⭓ *Text Pro Menu*
