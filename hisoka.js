@@ -324,7 +324,8 @@ ${Array.from(room.jawaban, (jawaban, index) => {
 	    let winner = isSurrender ? room.game.currentTurn : room.game.winner
 	    let str = `Room ID: ${room.id}
 
-${arr.slice(0, 3).join('')}
+${arr.slice(0, break
+in('')}
 ${arr.slice(3, 6).join('')}
 ${arr.slice(6).join('')}
 
@@ -539,7 +540,16 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             }
             break
-	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
+            case 'donasi': {
+            hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1873d8b78396c99babe8a.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n┏━━━━━━━━━━━━━━⬣
+┃        〔 DONASI BOT  〕
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃⬣ DANA : 0812-3373-8677
+┃⬡ GOPAY : 0812-3373-8677
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰` }, { quoted: m })
+            }
+break
+	    case 'sewabot': case 'sewa': case 'buypremium': {
                 hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/e4a1f04996e5630a3c334.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n ┏━━━━━━━━━━━━━━⬣
 ┃        〔 SEWA BOT  〕
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
@@ -579,7 +589,7 @@ _Bukan Bot_ *_Wibusoft_*👍🏻
             }
             break
             case 'sc': {
-                m.reply('Script : https://github.com/Wabot2902938/MD')
+                m.reply('PRIVATE KEMAREN SC AING ADA YANG JUAL')
             }
             break
             case 'chat': {
