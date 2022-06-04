@@ -540,12 +540,12 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'donasi': {
-            hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1873d8b78396c99babe8a.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n┏━━━━━━━━━━━━━━⬣
+            hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1873d8b78396c99babe8a.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n┏━━━━━━━━━━━⬣
 ┃        〔 DONASI BOT  〕
-┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃▰▰▰▰▰▰▰▰▰
 ┃⬣ DANA : 0812-3373-8677
 ┃⬡ GOPAY : 0812-3373-8677
-┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰` }, { quoted: m })
+┃▰▰▰▰▰▰▰▰▰` }, { quoted: m })
             }
 break	
 	    case 'sewabot': case 'sewa': case 'buypremium': {
