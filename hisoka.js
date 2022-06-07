@@ -553,7 +553,7 @@ break
 ┃        〔 SEWA BOT  〕
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃⬣ SEWABOT ⬣
-┃⬡ PERMANEN : 15k
+┃⬡ PERMANEN : 10k
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃〔 KELEBIHAN BOT 〕
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
