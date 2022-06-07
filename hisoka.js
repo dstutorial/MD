@@ -1663,7 +1663,7 @@ break
                 hisoka.sendMessage(m.chat, { image: { url: api('zenz', '/api/random/'+command, {}, 'apikey') }, caption: 'Tch Dasar Sagne🤤 ' + command }, { quoted: m})
             }
             break
-            case 'anime': case couples': case 'waifu': case 'husbu': case 'neko': case 'shinobu': case 'megumin': case 'maid': case 'uniform': {
+            case 'anime': case 'couples': case 'waifu': case 'husbu': case 'neko': case 'shinobu': case 'megumin': case 'maid': case 'uniform': {
                 m.reply(mess.wait)
                 hisoka.sendMessage(m.chat, { image: { url: api('zenz', '/api/random/'+command, {}, 'apikey') }, caption: 'Wibu 👀 ' + command }, { quoted: m })
             }
