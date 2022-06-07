@@ -1658,12 +1658,12 @@ break
                 hisoka.sendMessage(m.chat, { image: { url: result }, caption: '⭔ Media Url : '+result }, { quoted: m })
             }
             break
-             case 'waifus': case 'nekos': case 'trap': case 'blowjob': {
+             case 'waifus': case 'paizuri':  case 'nekos': case 'trap': case 'blowjob': {
                 m.reply(mess.wait)
                 hisoka.sendMessage(m.chat, { image: { url: api('zenz', '/api/random/'+command, {}, 'apikey') }, caption: 'Tch Dasar Sagne🤤 ' + command }, { quoted: m})
             }
             break
-            case 'anime': case 'waifu': case 'husbu': case 'neko': case 'shinobu': case 'megumin': case 'maid': case 'uniform': {
+            case 'anime': case couples': case 'waifu': case 'husbu': case 'neko': case 'shinobu': case 'megumin': case 'maid': case 'uniform': {
                 m.reply(mess.wait)
                 hisoka.sendMessage(m.chat, { image: { url: api('zenz', '/api/random/'+command, {}, 'apikey') }, caption: 'Wibu 👀 ' + command }, { quoted: m })
             }
